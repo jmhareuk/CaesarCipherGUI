@@ -1,6 +1,6 @@
 # CaesarCipherGUI
 
-A Caesar Cipher to demonstrate the use of encryption, decryption and brute-force attacks to Students of Information Security.
+A Caesar Cipher with a Graphical User Interface to demonstrate the use of encryption, decryption and brute-force attacks to Students of Information Security.
 
 # Author
 
