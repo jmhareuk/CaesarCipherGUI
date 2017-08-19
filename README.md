@@ -1,8 +1,8 @@
-CaesarCipher
+# CaesarCipherGUI
 
 A Caesar Cipher to demonstrate the use of encryption, decryption and brute-force attacks to Students of Information Security.
 
-Author
+# Author
 
 James Hare
 
